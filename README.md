@@ -147,5 +147,23 @@ The dashboard provides a structured view of NovaMart's sales, customers, product
 
 ## Dashboard Preview
 
-Dashboard screenshots will be added below to showcase the five Power BI pages.
+### 1. Executive Dashboard
+
+![Executive Dashboard](Executive-Dashboard.png)
+
+### 2. Sales & Time Analysis
+
+![Sales & Time Analysis](Sales-Time-Analysis.png)
+
+### 3. Product & Category Analysis
+
+![Product & Category Analysis](Product-Category-Analysis.png)
+
+### 4. Customer Analysis
+
+![Customer Analysis](Customer-Analysis.png)
+
+### 5. Promotion & Returns Analysis
+
+![Promotion & Returns Analysis](Promotion-Returns-Analysis.png)
 
